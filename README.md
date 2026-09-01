@@ -108,7 +108,7 @@ These findings are based on the analysis performed on the Superstore dataset.
 
 ### Monthly Sales Trend
 
-![Monthly Sales Trend](screenshots/monthly-sales-trend.png)
+![Monthly Sales Trend](superstore_monthly_sales_trend_chart.png)
 
 ## Project File
 
