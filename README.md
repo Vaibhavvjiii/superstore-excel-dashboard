@@ -104,7 +104,7 @@ These findings are based on the analysis performed on the Superstore dataset.
 
 ### KPI PivotTable
 
-![KPI PivotTable](screenshots/kpi-pivottable.png)
+![KPI PivotTable](superstore_monthly_sales_trend_pivot_table.png)
 
 ### Monthly Sales Trend
 
