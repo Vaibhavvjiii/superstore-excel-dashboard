@@ -98,7 +98,7 @@ These findings are based on the analysis performed on the Superstore dataset.
 
 ## Dashboard Preview
 
-![superstore_sale_dashboard_screenshot.png)
+![Dashboard Preview](superstore_sale_dashboard_screenshot.png)
 
 ## Supporting Analysis
 
