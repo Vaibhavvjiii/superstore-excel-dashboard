@@ -114,7 +114,7 @@ These findings are based on the analysis performed on the Superstore dataset.
 
 The complete workbook is available here:
 
-- [Download the Excel Dashboard]()
+- [Download the Excel Dashboard](SuperStore_Sales_Dashboard.csv)
 
 - [Download the Raw Superstore](Raw_Superstore.csv)
 
